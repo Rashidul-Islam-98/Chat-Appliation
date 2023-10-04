@@ -1,0 +1,44 @@
+[
+    {
+        "senderId": 1,
+        "receiverId": 2,
+        "text": "Hey, how are you doing?",
+        "timestamp": "2 min ago",
+        "image": null
+    },
+    {
+        "senderId": 2,
+        "receiverId": 1,
+        "text": "I'm good, thanks! How about you?",
+        "timestamp": "2 min ago",
+        "image": null
+    },
+    {
+        "senderId": 1,
+        "receiverId": 2,
+        "text": "I'm great, just got back from a vacation!",
+        "timestamp": "1 min ago",
+        "image": null
+    },
+    {
+        "senderId": 2,
+        "receiverId": 1,
+        "text": "That sounds amazing! Share some photos?",
+        "timestamp": "1 min ago",
+        "image": null
+    },
+    {
+        "senderId": 1,
+        "receiverId": 2,
+        "text": "Sure, here are some pics from my trip:",
+        "timestamp": "just now",
+        "image": "image.jpg"
+    },
+    {
+        "senderId": 2,
+        "receiverId": 1,
+        "text": "Wow, you look amazing.",
+        "timestamp": "just now",
+        "image": null
+    }
+]

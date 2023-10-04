@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "profile": "../assets/download.jpeg",
+      "lastmessage": "Hey, how are you doing?",
+      "timestamp": "just now"
+    },
+    {
+      "name": "Jane Smith",
+      "profile": "https://example.com/profiles/janesmith.jpg",
+      "lastmessage": "I'm good, thanks! How about you?",
+      "timestamp": "1 hour ago"
+    },
+    {
+      "name": "Bob Johnson",
+      "profile": "https://example.com/profiles/bobjohnson.jpg",
+      "lastmessage": "I'm great, just got back from a vacation!",
+      "timestamp": "2 days ago"
+    },
+    {
+      "name": "Alice Brown",
+      "profile": "https://example.com/profiles/alicebrown.jpg",
+      "lastmessage": "That sounds amazing! Share some photos?",
+      "timestamp": "3 days ago"
+    },
+    {
+      "name": "David Wilson",
+      "profile": "https://example.com/profiles/davidwilson.jpg",
+      "lastmessage": "Sure, here are some pics from my trip:",
+      "timestamp": "1 week ago"
+    },
+    {
+      "name": "Ella Davis",
+      "profile": "https://example.com/profiles/elladavis.jpg",
+      "lastmessage": "Hey there!",
+      "timestamp": "just now"
+    },
+    {
+      "name": "Michael Clark",
+      "profile": "https://example.com/profiles/michaelclark.jpg",
+      "lastmessage": "Hi, how's it going?",
+      "timestamp": "2 hours ago"
+    },
+    {
+      "name": "Olivia Green",
+      "profile": "https://example.com/profiles/oliviagreen.jpg",
+      "lastmessage": "I'm good, thanks!",
+      "timestamp": "1 day ago"
+    },
+    {
+      "name": "Sophia White",
+      "profile": "https://example.com/profiles/sophiawhite.jpg",
+      "lastmessage": "What are your plans for the weekend?",
+      "timestamp": "4 days ago"
+    },
+    {
+      "name": "Liam Harris",
+      "profile": "https://example.com/profiles/liamharris.jpg",
+      "lastmessage": "Just relaxing at home.",
+      "timestamp": "1 week ago"
+    }
+  ]
+  
